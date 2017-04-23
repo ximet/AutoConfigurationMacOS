@@ -13,6 +13,9 @@ curl -L https://raw.githubusercontent.com/docker/compose/$(docker-compose versio
 #install brew-cask
 brew install brew-cask
 
+#install git
+brew install git
+
 #install list app
 list = (
   google-chrome
