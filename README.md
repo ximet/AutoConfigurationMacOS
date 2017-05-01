@@ -13,6 +13,6 @@
    - webstorm
 ### Task
  - refactoring code
- - Add new programm 
+ - Add new program
  - Configure default state macOS
  - Try not use brew installer
