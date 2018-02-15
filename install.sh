@@ -25,6 +25,6 @@ list = (
   izip
   sourcetree
   webstorm
-  atom
+  visual-studio-code
 )
 brew cask install ${list[@]}
