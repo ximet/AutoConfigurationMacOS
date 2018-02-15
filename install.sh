@@ -19,12 +19,13 @@ brew install git
 #install list app
 list = (
   google-chrome
-  evernote
   telegram
   vlc
   izip
   sourcetree
   webstorm
   visual-studio-code
+  postman
+  slack
 )
 brew cask install ${list[@]}
